@@ -465,7 +465,7 @@ body {
   display: block;
   padding: 10px 15px;
   font-size: 0.9em;
-  color: #fff !important;
+  color: #777 !important;
 }
 
 .nav > li > a:hover {
